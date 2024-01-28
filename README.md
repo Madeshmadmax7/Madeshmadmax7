@@ -18,7 +18,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,html,css,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,mysql,sqlite,bash,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql,sqlite,bash,arduino" /><br>
 </div>
 
 
