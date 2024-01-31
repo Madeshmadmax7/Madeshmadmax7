@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center""><span style="font-size" 200; font-family:'Arial';";> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Madesh+a.k.a+Madmax!;" />
+<h1 align="center""><span style="font-size" 200; font-family:'Arial';";> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+There!+👋;+I'm+Madesh+a.k.a+Madmax!;" />
 
 </h1>
 <hr>
