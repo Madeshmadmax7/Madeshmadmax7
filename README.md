@@ -32,7 +32,7 @@
 <a href="https://linkedin.com/in/MadeshA" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/_i_mad_max_" target="_blank">
+<a href="https://instagram.com/_mad_max_clicks_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://twitter.com/Madeshmadmax" target="_blank">
